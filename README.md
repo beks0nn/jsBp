@@ -1,0 +1,2 @@
+# jsBp
+Boilerplate javascript project
